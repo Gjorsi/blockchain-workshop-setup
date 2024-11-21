@@ -9,6 +9,7 @@ Make sure you have valid versions or install:
 ## Hardhat 
 * In a new project folder, run
   ```npm install --save-dev hardhat```
+* ```npx hardhat init```
 * Start the blockchain by ```npx hardhat node```
 
 ## Remix IDE
